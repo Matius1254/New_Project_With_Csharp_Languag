@@ -1,5 +1,4 @@
 using System;
-// using System.Array;
 
 class New_Project_with_C {
 
